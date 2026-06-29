@@ -1,0 +1,19 @@
+{
+  "name": "Supreme Controls",
+  "short_name": "Supreme Controls",
+  "description": "Industrial automation, PLC & SCADA solutions, and electrical control panel manufacturing in Pune, India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E9631A",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "/assets/logo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
